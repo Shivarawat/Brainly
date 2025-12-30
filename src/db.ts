@@ -1,0 +1,1 @@
+const URI = 'mongodb+srv://admin:shiv1234@cluster0.8ggvq4l.mongodb.net/';
